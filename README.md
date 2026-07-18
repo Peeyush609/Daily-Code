@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0218-the-skyline-problem](https://github.com/Peeyush609/Daily-Code/tree/master/0218-the-skyline-problem) |
+| [0414-third-maximum-number](https://github.com/Peeyush609/Daily-Code/tree/master/0414-third-maximum-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0218-the-skyline-problem](https://github.com/Peeyush609/Daily-Code/tree/master/0218-the-skyline-problem) |
+| [0414-third-maximum-number](https://github.com/Peeyush609/Daily-Code/tree/master/0414-third-maximum-number) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
