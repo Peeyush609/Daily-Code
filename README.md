@@ -35,4 +35,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0218-the-skyline-problem](https://github.com/Peeyush609/Daily-Code/tree/master/0218-the-skyline-problem) |
+## String
+|  |
+| ------- |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Peeyush609/Daily-Code/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+## Stack
+|  |
+| ------- |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Peeyush609/Daily-Code/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+## Greedy
+|  |
+| ------- |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Peeyush609/Daily-Code/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Peeyush609/Daily-Code/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 <!---LeetCode Topics End-->
