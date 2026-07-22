@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0218-the-skyline-problem](https://github.com/Peeyush609/Daily-Code/tree/master/0218-the-skyline-problem) |
 | [0414-third-maximum-number](https://github.com/Peeyush609/Daily-Code/tree/master/0414-third-maximum-number) |
 | [1260-shift-2d-grid](https://github.com/Peeyush609/Daily-Code/tree/master/1260-shift-2d-grid) |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/Peeyush609/Daily-Code/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0218-the-skyline-problem](https://github.com/Peeyush609/Daily-Code/tree/master/0218-the-skyline-problem) |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/Peeyush609/Daily-Code/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## Sweep Line
 |  |
 | ------- |
@@ -43,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/Peeyush609/Daily-Code/tree/master/0424-longest-repeating-character-replacement) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Peeyush609/Daily-Code/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Peeyush609/Daily-Code/tree/master/3499-maximize-active-section-with-trade-i) |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/Peeyush609/Daily-Code/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## Stack
 |  |
 | ------- |
@@ -77,4 +80,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Peeyush609/Daily-Code/tree/master/3499-maximize-active-section-with-trade-i) |
+## Binary Search
+|  |
+| ------- |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/Peeyush609/Daily-Code/tree/master/3501-maximize-active-section-with-trade-ii) |
 <!---LeetCode Topics End-->
