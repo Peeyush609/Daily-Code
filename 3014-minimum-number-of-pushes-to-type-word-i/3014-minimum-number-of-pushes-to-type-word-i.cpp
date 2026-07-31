@@ -1,7 +1,12 @@
 class Solution {
 public:
     int minimumPushes(string word) {
-        int distinct = word.size();
+        unordered_set<int> ss;
+        for(char c: word){
+            ss.insert(c);
+        }
+
+        int distinct = ss.size();
         int ans = 0;
         while(distinct > 0){
             ans += distinct;
