@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0218-the-skyline-problem](https://github.com/Peeyush609/Daily-Code/tree/master/0218-the-skyline-problem) |
 | [0303-range-sum-query-immutable](https://github.com/Peeyush609/Daily-Code/tree/master/0303-range-sum-query-immutable) |
+| [0312-burst-balloons](https://github.com/Peeyush609/Daily-Code/tree/master/0312-burst-balloons) |
 | [0414-third-maximum-number](https://github.com/Peeyush609/Daily-Code/tree/master/0414-third-maximum-number) |
 | [0486-predict-the-winner](https://github.com/Peeyush609/Daily-Code/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Peeyush609/Daily-Code/tree/master/0628-maximum-product-of-three-numbers) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0312-burst-balloons](https://github.com/Peeyush609/Daily-Code/tree/master/0312-burst-balloons) |
 | [0486-predict-the-winner](https://github.com/Peeyush609/Daily-Code/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Peeyush609/Daily-Code/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/Peeyush609/Daily-Code/tree/master/1406-stone-game-iii) |
