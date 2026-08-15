@@ -184,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Peeyush609/Daily-Code/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/Peeyush609/Daily-Code/tree/master/0199-binary-tree-right-side-view) |
+| [0802-find-eventual-safe-states](https://github.com/Peeyush609/Daily-Code/tree/master/0802-find-eventual-safe-states) |
 | [3310-remove-methods-from-project](https://github.com/Peeyush609/Daily-Code/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
 |  |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/Peeyush609/Daily-Code/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0127-word-ladder](https://github.com/Peeyush609/Daily-Code/tree/master/0127-word-ladder) |
 | [0199-binary-tree-right-side-view](https://github.com/Peeyush609/Daily-Code/tree/master/0199-binary-tree-right-side-view) |
+| [0802-find-eventual-safe-states](https://github.com/Peeyush609/Daily-Code/tree/master/0802-find-eventual-safe-states) |
 | [3310-remove-methods-from-project](https://github.com/Peeyush609/Daily-Code/tree/master/3310-remove-methods-from-project) |
 ## Binary Tree
 |  |
@@ -234,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [0802-find-eventual-safe-states](https://github.com/Peeyush609/Daily-Code/tree/master/0802-find-eventual-safe-states) |
 | [3310-remove-methods-from-project](https://github.com/Peeyush609/Daily-Code/tree/master/3310-remove-methods-from-project) |
 ## Backtracking
 |  |
@@ -255,4 +258,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/Peeyush609/Daily-Code/tree/master/0300-longest-increasing-subsequence) |
+## Topological Sort
+|  |
+| ------- |
+| [0802-find-eventual-safe-states](https://github.com/Peeyush609/Daily-Code/tree/master/0802-find-eventual-safe-states) |
+## Kosaraju's Algorithm
+|  |
+| ------- |
+| [0802-find-eventual-safe-states](https://github.com/Peeyush609/Daily-Code/tree/master/0802-find-eventual-safe-states) |
+## Tarjan's SCC Algorithm
+|  |
+| ------- |
+| [0802-find-eventual-safe-states](https://github.com/Peeyush609/Daily-Code/tree/master/0802-find-eventual-safe-states) |
 <!---LeetCode Topics End-->
