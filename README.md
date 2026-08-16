@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0041-first-missing-positive](https://github.com/Peeyush609/Daily-Code/tree/master/0041-first-missing-positive) |
+| [0049-group-anagrams](https://github.com/Peeyush609/Daily-Code/tree/master/0049-group-anagrams) |
 | [0218-the-skyline-problem](https://github.com/Peeyush609/Daily-Code/tree/master/0218-the-skyline-problem) |
 | [0300-longest-increasing-subsequence](https://github.com/Peeyush609/Daily-Code/tree/master/0300-longest-increasing-subsequence) |
 | [0303-range-sum-query-immutable](https://github.com/Peeyush609/Daily-Code/tree/master/0303-range-sum-query-immutable) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Peeyush609/Daily-Code/tree/master/0049-group-anagrams) |
 | [0218-the-skyline-problem](https://github.com/Peeyush609/Daily-Code/tree/master/0218-the-skyline-problem) |
 | [0414-third-maximum-number](https://github.com/Peeyush609/Daily-Code/tree/master/0414-third-maximum-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Peeyush609/Daily-Code/tree/master/0628-maximum-product-of-three-numbers) |
@@ -70,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Peeyush609/Daily-Code/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0049-group-anagrams](https://github.com/Peeyush609/Daily-Code/tree/master/0049-group-anagrams) |
 | [0127-word-ladder](https://github.com/Peeyush609/Daily-Code/tree/master/0127-word-ladder) |
 | [0151-reverse-words-in-a-string](https://github.com/Peeyush609/Daily-Code/tree/master/0151-reverse-words-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/Peeyush609/Daily-Code/tree/master/0424-longest-repeating-character-replacement) |
@@ -112,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Peeyush609/Daily-Code/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0041-first-missing-positive](https://github.com/Peeyush609/Daily-Code/tree/master/0041-first-missing-positive) |
+| [0049-group-anagrams](https://github.com/Peeyush609/Daily-Code/tree/master/0049-group-anagrams) |
 | [0127-word-ladder](https://github.com/Peeyush609/Daily-Code/tree/master/0127-word-ladder) |
 | [0424-longest-repeating-character-replacement](https://github.com/Peeyush609/Daily-Code/tree/master/0424-longest-repeating-character-replacement) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Peeyush609/Daily-Code/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
