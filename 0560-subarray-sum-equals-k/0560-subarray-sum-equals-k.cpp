@@ -1,17 +1,20 @@
 class Solution {
 public:
     int subarraySum(vector<int>& nums, int k) {
-        int n = nums.size();
-        int ans = 0;
-        
-        for(int i = 0; i < n; i++){
-            int sum = 0;
-            for(int j = i; j < n; j++){
-                sum += nums[j];
-                if(sum == k)    ans++;
-            }
+        unordered_map<int, int> freq;
+        freq[0] = 1;  // empty prefix before the array
+
+        int prefixSum = 0;
+        int answer = 0;
+
+        for (int x : nums) {
+            prefixSum += x;
+
+            answer += freq[prefixSum - k];
+
+            freq[prefixSum]++;
         }
 
-        return ans;
+        return answer;
     }
 };
