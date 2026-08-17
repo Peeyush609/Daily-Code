@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Peeyush609/Daily-Code/tree/master/0015-3sum) |
 | [0041-first-missing-positive](https://github.com/Peeyush609/Daily-Code/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/Peeyush609/Daily-Code/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/Peeyush609/Daily-Code/tree/master/0053-maximum-subarray) |
 | [0128-longest-consecutive-sequence](https://github.com/Peeyush609/Daily-Code/tree/master/0128-longest-consecutive-sequence) |
 | [0218-the-skyline-problem](https://github.com/Peeyush609/Daily-Code/tree/master/0218-the-skyline-problem) |
 | [0300-longest-increasing-subsequence](https://github.com/Peeyush609/Daily-Code/tree/master/0300-longest-increasing-subsequence) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Peeyush609/Daily-Code/tree/master/0053-maximum-subarray) |
 | [0218-the-skyline-problem](https://github.com/Peeyush609/Daily-Code/tree/master/0218-the-skyline-problem) |
 ## Binary Indexed Tree
 |  |
@@ -222,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Peeyush609/Daily-Code/tree/master/0053-maximum-subarray) |
 | [0300-longest-increasing-subsequence](https://github.com/Peeyush609/Daily-Code/tree/master/0300-longest-increasing-subsequence) |
 | [0312-burst-balloons](https://github.com/Peeyush609/Daily-Code/tree/master/0312-burst-balloons) |
 | [0486-predict-the-winner](https://github.com/Peeyush609/Daily-Code/tree/master/0486-predict-the-winner) |
