@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Peeyush609/Daily-Code/tree/master/0015-3sum) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Peeyush609/Daily-Code/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0041-first-missing-positive](https://github.com/Peeyush609/Daily-Code/tree/master/0041-first-missing-positive) |
+| [0045-jump-game-ii](https://github.com/Peeyush609/Daily-Code/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/Peeyush609/Daily-Code/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/Peeyush609/Daily-Code/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Peeyush609/Daily-Code/tree/master/0053-maximum-subarray) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/Peeyush609/Daily-Code/tree/master/0045-jump-game-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Peeyush609/Daily-Code/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1386-cinema-seat-allocation](https://github.com/Peeyush609/Daily-Code/tree/master/1386-cinema-seat-allocation) |
 | [2029-stone-game-ix](https://github.com/Peeyush609/Daily-Code/tree/master/2029-stone-game-ix) |
@@ -246,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/Peeyush609/Daily-Code/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/Peeyush609/Daily-Code/tree/master/0053-maximum-subarray) |
 | [0300-longest-increasing-subsequence](https://github.com/Peeyush609/Daily-Code/tree/master/0300-longest-increasing-subsequence) |
 | [0312-burst-balloons](https://github.com/Peeyush609/Daily-Code/tree/master/0312-burst-balloons) |
