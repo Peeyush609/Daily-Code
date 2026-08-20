@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/Peeyush609/Daily-Code/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Peeyush609/Daily-Code/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1563-stone-game-v](https://github.com/Peeyush609/Daily-Code/tree/master/1563-stone-game-v) |
+| [1584-min-cost-to-connect-all-points](https://github.com/Peeyush609/Daily-Code/tree/master/1584-min-cost-to-connect-all-points) |
 | [2029-stone-game-ix](https://github.com/Peeyush609/Daily-Code/tree/master/2029-stone-game-ix) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Peeyush609/Daily-Code/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Peeyush609/Daily-Code/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -292,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0802-find-eventual-safe-states](https://github.com/Peeyush609/Daily-Code/tree/master/0802-find-eventual-safe-states) |
+| [1584-min-cost-to-connect-all-points](https://github.com/Peeyush609/Daily-Code/tree/master/1584-min-cost-to-connect-all-points) |
 | [3310-remove-methods-from-project](https://github.com/Peeyush609/Daily-Code/tree/master/3310-remove-methods-from-project) |
 ## Backtracking
 |  |
@@ -337,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Peeyush609/Daily-Code/tree/master/0128-longest-consecutive-sequence) |
+| [1584-min-cost-to-connect-all-points](https://github.com/Peeyush609/Daily-Code/tree/master/1584-min-cost-to-connect-all-points) |
 ## Linked List
 |  |
 | ------- |
@@ -370,4 +373,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Peeyush609/Daily-Code/tree/master/0023-merge-k-sorted-lists) |
+## Minimum Spanning Tree
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/Peeyush609/Daily-Code/tree/master/1584-min-cost-to-connect-all-points) |
+## Prim's Algorithm
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/Peeyush609/Daily-Code/tree/master/1584-min-cost-to-connect-all-points) |
+## Kruskal's Algorithm
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/Peeyush609/Daily-Code/tree/master/1584-min-cost-to-connect-all-points) |
+## Borůvka's Algorithm
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/Peeyush609/Daily-Code/tree/master/1584-min-cost-to-connect-all-points) |
 <!---LeetCode Topics End-->
