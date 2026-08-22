@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/Peeyush609/Daily-Code/tree/master/0300-longest-increasing-subsequence) |
 | [0303-range-sum-query-immutable](https://github.com/Peeyush609/Daily-Code/tree/master/0303-range-sum-query-immutable) |
 | [0312-burst-balloons](https://github.com/Peeyush609/Daily-Code/tree/master/0312-burst-balloons) |
+| [0322-coin-change](https://github.com/Peeyush609/Daily-Code/tree/master/0322-coin-change) |
 | [0414-third-maximum-number](https://github.com/Peeyush609/Daily-Code/tree/master/0414-third-maximum-number) |
 | [0486-predict-the-winner](https://github.com/Peeyush609/Daily-Code/tree/master/0486-predict-the-winner) |
 | [0560-subarray-sum-equals-k](https://github.com/Peeyush609/Daily-Code/tree/master/0560-subarray-sum-equals-k) |
@@ -245,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/Peeyush609/Daily-Code/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0127-word-ladder](https://github.com/Peeyush609/Daily-Code/tree/master/0127-word-ladder) |
 | [0199-binary-tree-right-side-view](https://github.com/Peeyush609/Daily-Code/tree/master/0199-binary-tree-right-side-view) |
+| [0322-coin-change](https://github.com/Peeyush609/Daily-Code/tree/master/0322-coin-change) |
 | [0802-find-eventual-safe-states](https://github.com/Peeyush609/Daily-Code/tree/master/0802-find-eventual-safe-states) |
 | [3310-remove-methods-from-project](https://github.com/Peeyush609/Daily-Code/tree/master/3310-remove-methods-from-project) |
 ## Binary Tree
@@ -261,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/Peeyush609/Daily-Code/tree/master/0213-house-robber-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/Peeyush609/Daily-Code/tree/master/0300-longest-increasing-subsequence) |
 | [0312-burst-balloons](https://github.com/Peeyush609/Daily-Code/tree/master/0312-burst-balloons) |
+| [0322-coin-change](https://github.com/Peeyush609/Daily-Code/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/Peeyush609/Daily-Code/tree/master/0338-counting-bits) |
 | [0486-predict-the-winner](https://github.com/Peeyush609/Daily-Code/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Peeyush609/Daily-Code/tree/master/0877-stone-game) |
@@ -398,4 +401,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1584-min-cost-to-connect-all-points](https://github.com/Peeyush609/Daily-Code/tree/master/1584-min-cost-to-connect-all-points) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/Peeyush609/Daily-Code/tree/master/0322-coin-change) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/Peeyush609/Daily-Code/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
