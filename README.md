@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/Peeyush609/Daily-Code/tree/master/0208-implement-trie-prefix-tree) |
 | [0424-longest-repeating-character-replacement](https://github.com/Peeyush609/Daily-Code/tree/master/0424-longest-repeating-character-replacement) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Peeyush609/Daily-Code/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1143-longest-common-subsequence](https://github.com/Peeyush609/Daily-Code/tree/master/1143-longest-common-subsequence) |
 | [1927-sum-game](https://github.com/Peeyush609/Daily-Code/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Peeyush609/Daily-Code/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Peeyush609/Daily-Code/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -281,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/Peeyush609/Daily-Code/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Peeyush609/Daily-Code/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Peeyush609/Daily-Code/tree/master/1140-stone-game-ii) |
+| [1143-longest-common-subsequence](https://github.com/Peeyush609/Daily-Code/tree/master/1143-longest-common-subsequence) |
 | [1406-stone-game-iii](https://github.com/Peeyush609/Daily-Code/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Peeyush609/Daily-Code/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/Peeyush609/Daily-Code/tree/master/1563-stone-game-v) |
@@ -433,4 +435,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Peeyush609/Daily-Code/tree/master/0329-longest-increasing-path-in-a-matrix) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/Peeyush609/Daily-Code/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
