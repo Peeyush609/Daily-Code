@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Peeyush609/Daily-Code/tree/master/0075-sort-colors) |
 | [0085-maximal-rectangle](https://github.com/Peeyush609/Daily-Code/tree/master/0085-maximal-rectangle) |
 | [0128-longest-consecutive-sequence](https://github.com/Peeyush609/Daily-Code/tree/master/0128-longest-consecutive-sequence) |
+| [0139-word-break](https://github.com/Peeyush609/Daily-Code/tree/master/0139-word-break) |
 | [0213-house-robber-ii](https://github.com/Peeyush609/Daily-Code/tree/master/0213-house-robber-ii) |
 | [0218-the-skyline-problem](https://github.com/Peeyush609/Daily-Code/tree/master/0218-the-skyline-problem) |
 | [0300-longest-increasing-subsequence](https://github.com/Peeyush609/Daily-Code/tree/master/0300-longest-increasing-subsequence) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Peeyush609/Daily-Code/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/Peeyush609/Daily-Code/tree/master/0049-group-anagrams) |
 | [0127-word-ladder](https://github.com/Peeyush609/Daily-Code/tree/master/0127-word-ladder) |
+| [0139-word-break](https://github.com/Peeyush609/Daily-Code/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/Peeyush609/Daily-Code/tree/master/0151-reverse-words-in-a-string) |
 | [0208-implement-trie-prefix-tree](https://github.com/Peeyush609/Daily-Code/tree/master/0208-implement-trie-prefix-tree) |
 | [0424-longest-repeating-character-replacement](https://github.com/Peeyush609/Daily-Code/tree/master/0424-longest-repeating-character-replacement) |
@@ -152,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Peeyush609/Daily-Code/tree/master/0049-group-anagrams) |
 | [0127-word-ladder](https://github.com/Peeyush609/Daily-Code/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/Peeyush609/Daily-Code/tree/master/0128-longest-consecutive-sequence) |
+| [0139-word-break](https://github.com/Peeyush609/Daily-Code/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/Peeyush609/Daily-Code/tree/master/0208-implement-trie-prefix-tree) |
 | [0424-longest-repeating-character-replacement](https://github.com/Peeyush609/Daily-Code/tree/master/0424-longest-repeating-character-replacement) |
 | [0560-subarray-sum-equals-k](https://github.com/Peeyush609/Daily-Code/tree/master/0560-subarray-sum-equals-k) |
@@ -273,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/Peeyush609/Daily-Code/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/Peeyush609/Daily-Code/tree/master/0053-maximum-subarray) |
 | [0085-maximal-rectangle](https://github.com/Peeyush609/Daily-Code/tree/master/0085-maximal-rectangle) |
+| [0139-word-break](https://github.com/Peeyush609/Daily-Code/tree/master/0139-word-break) |
 | [0213-house-robber-ii](https://github.com/Peeyush609/Daily-Code/tree/master/0213-house-robber-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/Peeyush609/Daily-Code/tree/master/0300-longest-increasing-subsequence) |
 | [0312-burst-balloons](https://github.com/Peeyush609/Daily-Code/tree/master/0312-burst-balloons) |
@@ -394,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Trie
 |  |
 | ------- |
+| [0139-word-break](https://github.com/Peeyush609/Daily-Code/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/Peeyush609/Daily-Code/tree/master/0208-implement-trie-prefix-tree) |
 ## Merge Sort
 |  |
@@ -430,6 +435,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0139-word-break](https://github.com/Peeyush609/Daily-Code/tree/master/0139-word-break) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Peeyush609/Daily-Code/tree/master/0329-longest-increasing-path-in-a-matrix) |
 ## Directed Acyclic Graph
 |  |
@@ -439,4 +445,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1143-longest-common-subsequence](https://github.com/Peeyush609/Daily-Code/tree/master/1143-longest-common-subsequence) |
+## Brute-Force Search
+|  |
+| ------- |
+| [0139-word-break](https://github.com/Peeyush609/Daily-Code/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
