@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/Peeyush609/Daily-Code/tree/master/0085-maximal-rectangle) |
 | [0128-longest-consecutive-sequence](https://github.com/Peeyush609/Daily-Code/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/Peeyush609/Daily-Code/tree/master/0139-word-break) |
+| [0169-majority-element](https://github.com/Peeyush609/Daily-Code/tree/master/0169-majority-element) |
 | [0213-house-robber-ii](https://github.com/Peeyush609/Daily-Code/tree/master/0213-house-robber-ii) |
 | [0218-the-skyline-problem](https://github.com/Peeyush609/Daily-Code/tree/master/0218-the-skyline-problem) |
 | [0300-longest-increasing-subsequence](https://github.com/Peeyush609/Daily-Code/tree/master/0300-longest-increasing-subsequence) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Peeyush609/Daily-Code/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/Peeyush609/Daily-Code/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/Peeyush609/Daily-Code/tree/master/0169-majority-element) |
 | [0218-the-skyline-problem](https://github.com/Peeyush609/Daily-Code/tree/master/0218-the-skyline-problem) |
 ## Binary Indexed Tree
 |  |
@@ -71,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Peeyush609/Daily-Code/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/Peeyush609/Daily-Code/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/Peeyush609/Daily-Code/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/Peeyush609/Daily-Code/tree/master/0169-majority-element) |
 | [0218-the-skyline-problem](https://github.com/Peeyush609/Daily-Code/tree/master/0218-the-skyline-problem) |
 | [0414-third-maximum-number](https://github.com/Peeyush609/Daily-Code/tree/master/0414-third-maximum-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Peeyush609/Daily-Code/tree/master/0628-maximum-product-of-three-numbers) |
@@ -155,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/Peeyush609/Daily-Code/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/Peeyush609/Daily-Code/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/Peeyush609/Daily-Code/tree/master/0139-word-break) |
+| [0169-majority-element](https://github.com/Peeyush609/Daily-Code/tree/master/0169-majority-element) |
 | [0208-implement-trie-prefix-tree](https://github.com/Peeyush609/Daily-Code/tree/master/0208-implement-trie-prefix-tree) |
 | [0424-longest-repeating-character-replacement](https://github.com/Peeyush609/Daily-Code/tree/master/0424-longest-repeating-character-replacement) |
 | [0560-subarray-sum-equals-k](https://github.com/Peeyush609/Daily-Code/tree/master/0560-subarray-sum-equals-k) |
@@ -220,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Peeyush609/Daily-Code/tree/master/0169-majority-element) |
 | [2029-stone-game-ix](https://github.com/Peeyush609/Daily-Code/tree/master/2029-stone-game-ix) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Peeyush609/Daily-Code/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Peeyush609/Daily-Code/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -450,4 +455,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/Peeyush609/Daily-Code/tree/master/0139-word-break) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Peeyush609/Daily-Code/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
