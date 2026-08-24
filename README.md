@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/Peeyush609/Daily-Code/tree/master/0085-maximal-rectangle) |
 | [0128-longest-consecutive-sequence](https://github.com/Peeyush609/Daily-Code/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/Peeyush609/Daily-Code/tree/master/0139-word-break) |
+| [0149-max-points-on-a-line](https://github.com/Peeyush609/Daily-Code/tree/master/0149-max-points-on-a-line) |
 | [0169-majority-element](https://github.com/Peeyush609/Daily-Code/tree/master/0169-majority-element) |
 | [0213-house-robber-ii](https://github.com/Peeyush609/Daily-Code/tree/master/0213-house-robber-ii) |
 | [0218-the-skyline-problem](https://github.com/Peeyush609/Daily-Code/tree/master/0218-the-skyline-problem) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/Peeyush609/Daily-Code/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/Peeyush609/Daily-Code/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/Peeyush609/Daily-Code/tree/master/0139-word-break) |
+| [0149-max-points-on-a-line](https://github.com/Peeyush609/Daily-Code/tree/master/0149-max-points-on-a-line) |
 | [0169-majority-element](https://github.com/Peeyush609/Daily-Code/tree/master/0169-majority-element) |
 | [0208-implement-trie-prefix-tree](https://github.com/Peeyush609/Daily-Code/tree/master/0208-implement-trie-prefix-tree) |
 | [0424-longest-repeating-character-replacement](https://github.com/Peeyush609/Daily-Code/tree/master/0424-longest-repeating-character-replacement) |
@@ -194,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Peeyush609/Daily-Code/tree/master/0007-reverse-integer) |
+| [0149-max-points-on-a-line](https://github.com/Peeyush609/Daily-Code/tree/master/0149-max-points-on-a-line) |
 | [0486-predict-the-winner](https://github.com/Peeyush609/Daily-Code/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Peeyush609/Daily-Code/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Peeyush609/Daily-Code/tree/master/0877-stone-game) |
@@ -459,4 +462,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Peeyush609/Daily-Code/tree/master/0169-majority-element) |
+## Geometry
+|  |
+| ------- |
+| [0149-max-points-on-a-line](https://github.com/Peeyush609/Daily-Code/tree/master/0149-max-points-on-a-line) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [0149-max-points-on-a-line](https://github.com/Peeyush609/Daily-Code/tree/master/0149-max-points-on-a-line) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [0149-max-points-on-a-line](https://github.com/Peeyush609/Daily-Code/tree/master/0149-max-points-on-a-line) |
 <!---LeetCode Topics End-->
