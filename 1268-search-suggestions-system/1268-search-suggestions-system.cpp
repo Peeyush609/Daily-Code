@@ -1,76 +1,26 @@
-class Node {
-public:
-    Node* links[26] = {};
-    vector<string> suggestions;
-
-    bool contains(char c) {
-        return links[c - 'a'] != nullptr;
-    }
-
-    Node* get(char c) {
-        return links[c - 'a'];
-    }
-
-    void put(char c) {
-        links[c - 'a'] = new Node();
-    }
-};
-
 class Solution {
 public:
-
-    Node* root = new Node();
-
-    void insert(string& word) {
-        Node* curr = root;
-
-        for(char c : word) {
-
-            if(!curr->contains(c)) {
-                curr->put(c);
-            }
-
-            curr = curr->get(c);
-
-            // Keep only 3 lexicographically smallest
-            if(curr->suggestions.size() < 3) {
-                curr->suggestions.push_back(word);
-            }
-        }
-    }
-
-    vector<string> search(string& prefix) {
-        Node* curr = root;
-
-        for(char c : prefix) {
-
-            if(!curr->contains(c))
-                return {};
-
-            curr = curr->get(c);
-        }
-
-        return curr->suggestions;
-    }
-
-    vector<vector<string>> suggestedProducts(
-        vector<string>& products,
-        string searchWord
-    ) {
-
+    vector<vector<string>> suggestedProducts(vector<string>& products, string searchWord) {
         sort(products.begin(), products.end());
+        int n = searchWord.length();
+        vector<vector<string>> ans(n);
 
-        for(string& product : products) {
-            insert(product);
-        }
+        int l = 0;
+        int r = products.size() - 1;
 
-        vector<vector<string>> ans;
+        for(int i = 0; i < n; i++){
+            char c = searchWord[i];
 
-        string prefix;
+            while(l <= r && (i >= products[l].size() || products[l][i] != c)){
+                l++;
+            }
+            while(l <= r && (i >= products[r].size() || products[r][i] != c)){
+                r--;
+            }
 
-        for(char c : searchWord) {
-            prefix += c;
-            ans.push_back(search(prefix));
+            for(int k = l; k <= min(l + 2, r); k++){
+                ans[i].push_back(products[k]);
+            }
         }
 
         return ans;
