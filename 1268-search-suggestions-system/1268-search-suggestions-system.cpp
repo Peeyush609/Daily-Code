@@ -1,88 +1,76 @@
-struct Node{
+class Node {
+public:
     Node* links[26] = {};
-    bool end = false;
+    vector<string> suggestions;
 
-    set<string> vec;
-
-    // put
-    void put(char c){
-        links[c - 'a'] = new Node();
+    bool contains(char c) {
+        return links[c - 'a'] != nullptr;
     }
 
-    bool getContains(char c){
-        return links[c - 'a'] != NULL;
-    }
-
-    // get
-    Node* get(char c){
+    Node* get(char c) {
         return links[c - 'a'];
     }
 
-    // setend
-    void setEnd(){
-        end = true;
+    void put(char c) {
+        links[c - 'a'] = new Node();
     }
-
-    // isend
-    bool isEnd(){
-        return end;
-    }
-
 };
 
-
 class Solution {
-private: Node* root; 
 public:
-    
-    
-    void insert(string word){
+
+    Node* root = new Node();
+
+    void insert(string& word) {
         Node* curr = root;
-        for(char c: word){
-            if(!curr->getContains(c)){
+
+        for(char c : word) {
+
+            if(!curr->contains(c)) {
                 curr->put(c);
             }
+
             curr = curr->get(c);
-            curr->vec.insert(word);
-        }
 
-        curr->setEnd();
-    }
-
-    vector<string> search(string pre){
-        Node* curr = root;
-        for(char c: pre){
-            if(!curr->getContains(c)){
-                return {};
+            // Keep only 3 lexicographically smallest
+            if(curr->suggestions.size() < 3) {
+                curr->suggestions.push_back(word);
             }
-            
+        }
+    }
+
+    vector<string> search(string& prefix) {
+        Node* curr = root;
+
+        for(char c : prefix) {
+
+            if(!curr->contains(c))
+                return {};
+
             curr = curr->get(c);
         }
 
-        vector<string> ans;
-        int cnt = 0;
-        for(auto s: curr->vec){
-            ans.push_back(s);
-            cnt++;
-            if(cnt == 3)    break;
-        }
-        return ans;
+        return curr->suggestions;
     }
-    
-    vector<vector<string>> suggestedProducts(vector<string>& products, string searchWord) {
-        int n = products.size();
-        int m = searchWord.size();
 
-        vector<vector<string>> ans;
-        root = new Node();
-        for(auto product: products){
+    vector<vector<string>> suggestedProducts(
+        vector<string>& products,
+        string searchWord
+    ) {
+
+        sort(products.begin(), products.end());
+
+        for(string& product : products) {
             insert(product);
         }
-        string s;
-        for(int i = 0; i < m; i++){
-            s += searchWord[i];
-            vector<string> curr = search(s);
-            ans.push_back(curr);
+
+        vector<vector<string>> ans;
+
+        string prefix;
+
+        for(char c : searchWord) {
+            prefix += c;
+            ans.push_back(search(prefix));
         }
 
         return ans;
