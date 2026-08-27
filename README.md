@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Peeyush609/Daily-Code/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0414-third-maximum-number](https://github.com/Peeyush609/Daily-Code/tree/master/0414-third-maximum-number) |
 | [0486-predict-the-winner](https://github.com/Peeyush609/Daily-Code/tree/master/0486-predict-the-winner) |
+| [0542-01-matrix](https://github.com/Peeyush609/Daily-Code/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/Peeyush609/Daily-Code/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Peeyush609/Daily-Code/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Peeyush609/Daily-Code/tree/master/0877-stone-game) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0085-maximal-rectangle](https://github.com/Peeyush609/Daily-Code/tree/master/0085-maximal-rectangle) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Peeyush609/Daily-Code/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0542-01-matrix](https://github.com/Peeyush609/Daily-Code/tree/master/0542-01-matrix) |
 | [1260-shift-2d-grid](https://github.com/Peeyush609/Daily-Code/tree/master/1260-shift-2d-grid) |
 ## Simulation
 |  |
@@ -286,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/Peeyush609/Daily-Code/tree/master/0199-binary-tree-right-side-view) |
 | [0322-coin-change](https://github.com/Peeyush609/Daily-Code/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Peeyush609/Daily-Code/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0542-01-matrix](https://github.com/Peeyush609/Daily-Code/tree/master/0542-01-matrix) |
 | [0802-find-eventual-safe-states](https://github.com/Peeyush609/Daily-Code/tree/master/0802-find-eventual-safe-states) |
 | [3310-remove-methods-from-project](https://github.com/Peeyush609/Daily-Code/tree/master/3310-remove-methods-from-project) |
 ## Binary Tree
@@ -308,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Peeyush609/Daily-Code/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0338-counting-bits](https://github.com/Peeyush609/Daily-Code/tree/master/0338-counting-bits) |
 | [0486-predict-the-winner](https://github.com/Peeyush609/Daily-Code/tree/master/0486-predict-the-winner) |
+| [0542-01-matrix](https://github.com/Peeyush609/Daily-Code/tree/master/0542-01-matrix) |
 | [0877-stone-game](https://github.com/Peeyush609/Daily-Code/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Peeyush609/Daily-Code/tree/master/1140-stone-game-ii) |
 | [1143-longest-common-subsequence](https://github.com/Peeyush609/Daily-Code/tree/master/1143-longest-common-subsequence) |
