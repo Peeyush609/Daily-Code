@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/Peeyush609/Daily-Code/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/Peeyush609/Daily-Code/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Peeyush609/Daily-Code/tree/master/0628-maximum-product-of-three-numbers) |
+| [0778-swim-in-rising-water](https://github.com/Peeyush609/Daily-Code/tree/master/0778-swim-in-rising-water) |
 | [0877-stone-game](https://github.com/Peeyush609/Daily-Code/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Peeyush609/Daily-Code/tree/master/1140-stone-game-ii) |
 | [1260-shift-2d-grid](https://github.com/Peeyush609/Daily-Code/tree/master/1260-shift-2d-grid) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Peeyush609/Daily-Code/tree/master/0023-merge-k-sorted-lists) |
 | [0218-the-skyline-problem](https://github.com/Peeyush609/Daily-Code/tree/master/0218-the-skyline-problem) |
+| [0778-swim-in-rising-water](https://github.com/Peeyush609/Daily-Code/tree/master/0778-swim-in-rising-water) |
 | [1268-search-suggestions-system](https://github.com/Peeyush609/Daily-Code/tree/master/1268-search-suggestions-system) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Peeyush609/Daily-Code/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Ordered Set
@@ -159,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/Peeyush609/Daily-Code/tree/master/0085-maximal-rectangle) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Peeyush609/Daily-Code/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0542-01-matrix](https://github.com/Peeyush609/Daily-Code/tree/master/0542-01-matrix) |
+| [0778-swim-in-rising-water](https://github.com/Peeyush609/Daily-Code/tree/master/0778-swim-in-rising-water) |
 | [1260-shift-2d-grid](https://github.com/Peeyush609/Daily-Code/tree/master/1260-shift-2d-grid) |
 | [1765-map-of-highest-peak](https://github.com/Peeyush609/Daily-Code/tree/master/1765-map-of-highest-peak) |
 ## Simulation
@@ -209,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Peeyush609/Daily-Code/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0300-longest-increasing-subsequence](https://github.com/Peeyush609/Daily-Code/tree/master/0300-longest-increasing-subsequence) |
+| [0778-swim-in-rising-water](https://github.com/Peeyush609/Daily-Code/tree/master/0778-swim-in-rising-water) |
 | [1268-search-suggestions-system](https://github.com/Peeyush609/Daily-Code/tree/master/1268-search-suggestions-system) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Peeyush609/Daily-Code/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Peeyush609/Daily-Code/tree/master/3501-maximize-active-section-with-trade-ii) |
@@ -284,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/Peeyush609/Daily-Code/tree/master/0199-binary-tree-right-side-view) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Peeyush609/Daily-Code/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Peeyush609/Daily-Code/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0778-swim-in-rising-water](https://github.com/Peeyush609/Daily-Code/tree/master/0778-swim-in-rising-water) |
 | [0802-find-eventual-safe-states](https://github.com/Peeyush609/Daily-Code/tree/master/0802-find-eventual-safe-states) |
 | [3310-remove-methods-from-project](https://github.com/Peeyush609/Daily-Code/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
@@ -295,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/Peeyush609/Daily-Code/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Peeyush609/Daily-Code/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0542-01-matrix](https://github.com/Peeyush609/Daily-Code/tree/master/0542-01-matrix) |
+| [0778-swim-in-rising-water](https://github.com/Peeyush609/Daily-Code/tree/master/0778-swim-in-rising-water) |
 | [0802-find-eventual-safe-states](https://github.com/Peeyush609/Daily-Code/tree/master/0802-find-eventual-safe-states) |
 | [1765-map-of-highest-peak](https://github.com/Peeyush609/Daily-Code/tree/master/1765-map-of-highest-peak) |
 | [3310-remove-methods-from-project](https://github.com/Peeyush609/Daily-Code/tree/master/3310-remove-methods-from-project) |
@@ -344,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Minimax
 |  |
 | ------- |
+| [0778-swim-in-rising-water](https://github.com/Peeyush609/Daily-Code/tree/master/0778-swim-in-rising-water) |
 | [1140-stone-game-ii](https://github.com/Peeyush609/Daily-Code/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Peeyush609/Daily-Code/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Peeyush609/Daily-Code/tree/master/1510-stone-game-iv) |
@@ -409,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Peeyush609/Daily-Code/tree/master/0128-longest-consecutive-sequence) |
+| [0778-swim-in-rising-water](https://github.com/Peeyush609/Daily-Code/tree/master/0778-swim-in-rising-water) |
 | [1584-min-cost-to-connect-all-points](https://github.com/Peeyush609/Daily-Code/tree/master/1584-min-cost-to-connect-all-points) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Peeyush609/Daily-Code/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Linked List
@@ -504,4 +512,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/Peeyush609/Daily-Code/tree/master/0149-max-points-on-a-line) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [0778-swim-in-rising-water](https://github.com/Peeyush609/Daily-Code/tree/master/0778-swim-in-rising-water) |
 <!---LeetCode Topics End-->
