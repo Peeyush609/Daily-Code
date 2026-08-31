@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Peeyush609/Daily-Code/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Peeyush609/Daily-Code/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Peeyush609/Daily-Code/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+| [3364-minimum-positive-sum-subarray](https://github.com/Peeyush609/Daily-Code/tree/master/3364-minimum-positive-sum-subarray) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Peeyush609/Daily-Code/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Peeyush609/Daily-Code/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Peeyush609/Daily-Code/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/Peeyush609/Daily-Code/tree/master/0424-longest-repeating-character-replacement) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Peeyush609/Daily-Code/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Peeyush609/Daily-Code/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3364-minimum-positive-sum-subarray](https://github.com/Peeyush609/Daily-Code/tree/master/3364-minimum-positive-sum-subarray) |
 ## Enumeration
 |  |
 | ------- |
@@ -274,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/Peeyush609/Daily-Code/tree/master/0303-range-sum-query-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/Peeyush609/Daily-Code/tree/master/0560-subarray-sum-equals-k) |
 | [1140-stone-game-ii](https://github.com/Peeyush609/Daily-Code/tree/master/1140-stone-game-ii) |
+| [3364-minimum-positive-sum-subarray](https://github.com/Peeyush609/Daily-Code/tree/master/3364-minimum-positive-sum-subarray) |
 ## Tree
 |  |
 | ------- |
