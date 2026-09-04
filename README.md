@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3718-smallest-missing-multiple-of-k](https://github.com/Peeyush609/Daily-Code/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Peeyush609/Daily-Code/tree/master/3731-find-missing-elements) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Peeyush609/Daily-Code/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3903-smallest-stable-index-i](https://github.com/Peeyush609/Daily-Code/tree/master/3903-smallest-stable-index-i) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -279,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Peeyush609/Daily-Code/tree/master/0560-subarray-sum-equals-k) |
 | [1140-stone-game-ii](https://github.com/Peeyush609/Daily-Code/tree/master/1140-stone-game-ii) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Peeyush609/Daily-Code/tree/master/3364-minimum-positive-sum-subarray) |
+| [3903-smallest-stable-index-i](https://github.com/Peeyush609/Daily-Code/tree/master/3903-smallest-stable-index-i) |
 ## Tree
 |  |
 | ------- |
