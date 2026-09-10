@@ -289,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/Peeyush609/Daily-Code/tree/master/0098-validate-binary-search-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Peeyush609/Daily-Code/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/Peeyush609/Daily-Code/tree/master/0199-binary-tree-right-side-view) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Peeyush609/Daily-Code/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -299,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Peeyush609/Daily-Code/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0778-swim-in-rising-water](https://github.com/Peeyush609/Daily-Code/tree/master/0778-swim-in-rising-water) |
 | [0802-find-eventual-safe-states](https://github.com/Peeyush609/Daily-Code/tree/master/0802-find-eventual-safe-states) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Peeyush609/Daily-Code/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3310-remove-methods-from-project](https://github.com/Peeyush609/Daily-Code/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
 |  |
@@ -319,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/Peeyush609/Daily-Code/tree/master/0098-validate-binary-search-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Peeyush609/Daily-Code/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/Peeyush609/Daily-Code/tree/master/0199-binary-tree-right-side-view) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Peeyush609/Daily-Code/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Dynamic Programming
 |  |
 | ------- |
