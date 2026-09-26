@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1563-stone-game-v](https://github.com/Peeyush609/Daily-Code/tree/master/1563-stone-game-v) |
 | [1584-min-cost-to-connect-all-points](https://github.com/Peeyush609/Daily-Code/tree/master/1584-min-cost-to-connect-all-points) |
 | [1765-map-of-highest-peak](https://github.com/Peeyush609/Daily-Code/tree/master/1765-map-of-highest-peak) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Peeyush609/Daily-Code/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2029-stone-game-ix](https://github.com/Peeyush609/Daily-Code/tree/master/2029-stone-game-ix) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Peeyush609/Daily-Code/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Peeyush609/Daily-Code/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1143-longest-common-subsequence](https://github.com/Peeyush609/Daily-Code/tree/master/1143-longest-common-subsequence) |
 | [1268-search-suggestions-system](https://github.com/Peeyush609/Daily-Code/tree/master/1268-search-suggestions-system) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Peeyush609/Daily-Code/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Peeyush609/Daily-Code/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1927-sum-game](https://github.com/Peeyush609/Daily-Code/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Peeyush609/Daily-Code/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Peeyush609/Daily-Code/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -202,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1386-cinema-seat-allocation](https://github.com/Peeyush609/Daily-Code/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Peeyush609/Daily-Code/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Peeyush609/Daily-Code/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Peeyush609/Daily-Code/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Peeyush609/Daily-Code/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Peeyush609/Daily-Code/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Peeyush609/Daily-Code/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
