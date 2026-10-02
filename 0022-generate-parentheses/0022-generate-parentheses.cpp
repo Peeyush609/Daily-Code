@@ -1,25 +1,22 @@
 class Solution {
 public:
-
-    void solve(vector<string>& ans, int close, int open, string curr, int n, int i){
-        if(close == 0){
+    void fun(int o, int c, vector<string>& ans, string curr){
+        if(o == 0 && c == 0){
             ans.push_back(curr);
-            return;
         }
-
-        if(open > 0){
-            solve(ans, close - 1, open - 1, curr + ')', n, i);
+        //add open bracket
+        if(o > 0){
+            fun(o - 1, c, ans, curr + '(');
         }
-        if(i < n){
-            solve(ans, close, open + 1, curr + '(', n, i + 1);
+        //add close bracket only if there are open bracket previously
+        if(c > 0 && o < c){
+            fun(o, c - 1, ans, curr  + ')');
         }
     }
 
     vector<string> generateParenthesis(int n) {
         vector<string> ans;
-
-        solve(ans, n, 0, "", n, 0);
-
+        fun(n, n, ans, "");
         return ans;
     }
 };
