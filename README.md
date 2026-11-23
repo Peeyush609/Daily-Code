@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/Peeyush609/Daily-Code/tree/master/1140-stone-game-ii) |
 | [1260-shift-2d-grid](https://github.com/Peeyush609/Daily-Code/tree/master/1260-shift-2d-grid) |
 | [1268-search-suggestions-system](https://github.com/Peeyush609/Daily-Code/tree/master/1268-search-suggestions-system) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Peeyush609/Daily-Code/tree/master/1352-product-of-the-last-k-numbers) |
 | [1386-cinema-seat-allocation](https://github.com/Peeyush609/Daily-Code/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/Peeyush609/Daily-Code/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Peeyush609/Daily-Code/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -278,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0836-rectangle-overlap](https://github.com/Peeyush609/Daily-Code/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/Peeyush609/Daily-Code/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Peeyush609/Daily-Code/tree/master/1140-stone-game-ii) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Peeyush609/Daily-Code/tree/master/1352-product-of-the-last-k-numbers) |
 | [1406-stone-game-iii](https://github.com/Peeyush609/Daily-Code/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Peeyush609/Daily-Code/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/Peeyush609/Daily-Code/tree/master/1563-stone-game-v) |
@@ -324,12 +326,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/Peeyush609/Daily-Code/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Peeyush609/Daily-Code/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0303-range-sum-query-immutable](https://github.com/Peeyush609/Daily-Code/tree/master/0303-range-sum-query-immutable) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Peeyush609/Daily-Code/tree/master/1352-product-of-the-last-k-numbers) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Peeyush609/Daily-Code/tree/master/0303-range-sum-query-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/Peeyush609/Daily-Code/tree/master/0560-subarray-sum-equals-k) |
 | [1140-stone-game-ii](https://github.com/Peeyush609/Daily-Code/tree/master/1140-stone-game-ii) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Peeyush609/Daily-Code/tree/master/1352-product-of-the-last-k-numbers) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Peeyush609/Daily-Code/tree/master/3364-minimum-positive-sum-subarray) |
 | [3903-smallest-stable-index-i](https://github.com/Peeyush609/Daily-Code/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Peeyush609/Daily-Code/tree/master/3904-smallest-stable-index-ii) |
@@ -597,4 +601,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0778-swim-in-rising-water](https://github.com/Peeyush609/Daily-Code/tree/master/0778-swim-in-rising-water) |
+## Data Stream
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/Peeyush609/Daily-Code/tree/master/1352-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
